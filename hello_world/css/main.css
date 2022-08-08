@@ -1,0 +1,26 @@
+/* seletor {
+    propriedade: valor;
+}
+
+Seletores:
+-tag
+-id (#)
+-class (.)
+*/
+
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+h1{
+    line-height: 2.5px;
+}
+h2{
+    line-height: 2px;
+}
+ul{
+    list-style-type: circle;
+}
+a{
+    text-decoration: none;
+}
