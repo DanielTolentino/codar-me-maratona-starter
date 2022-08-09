@@ -28,3 +28,7 @@ a{
 .mail{
     color:coral;
 }
+.name{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
