@@ -7,10 +7,13 @@ Seletores:
 -id (#)
 -class (.)
 */
-
 html {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
+}
+body{
+    background-color: black;
+    color: white;
 }
 h2{
     line-height: 3px;
@@ -19,5 +22,9 @@ ul{
     list-style-type: circle;
 }
 a{
+    color: #8ecae6;
     text-decoration: none;
+}
+.mail{
+    color:coral;
 }
