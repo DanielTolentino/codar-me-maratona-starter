@@ -1,0 +1,17 @@
+body{
+    font-family: 'Manrope', sans-serif;
+}
+
+header {
+    background-color: #0B090A;
+    padding: 24px 72px;
+    color: #FFFFFF;
+}
+
+.btn{
+    padding: 12px 24px;
+    background-color: transparent;
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    text-transform: uppercase;
+}
