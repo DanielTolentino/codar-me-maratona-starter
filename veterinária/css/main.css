@@ -12,13 +12,17 @@ body{
 
 }
 .headerBtn{
-    color: #11698E;
+    color: #19456B;
     font-family: 'Manrope', sans-serif;
     font-weight: 600;
     padding: 12px 24px;
     border: 2px solid #19456B;
     border-radius: 90px;
     background-color: transparent;
+}
+.headerBtn:hover{
+    color: #11698E;
+    border: 2px solid #11698E;
 }
 #hero-container{
     display: flex;
@@ -91,6 +95,9 @@ body{
     font-weight: 600;
     border-radius: 90px;
     background-color: #16C79A;
+}
+.wpp:hover{
+    background-color: #1AA17E;
 }
 
 #services-container{
