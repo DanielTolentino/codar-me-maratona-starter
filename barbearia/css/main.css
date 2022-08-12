@@ -6,6 +6,10 @@ header {
     background-color: #0B090A;
     padding: 24px 72px;
     color: #FFFFFF;
+
+    display: flex;
+    justify-content: space-between; /* alinha na horizontal */
+    align-items: center; /* alinha na vertical */ /*inverte ao usar column */
 }
 
 .btn{
