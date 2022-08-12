@@ -16,6 +16,10 @@ body{
 
 .btn-primary{
     background-color: #ba191b;
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 .btn-outline{
     border: 2px solid #FFFFFF;
